@@ -1,4 +1,7 @@
-
+# github.com/FLAME-XD
+# follow and give star tools
+# thanks follow and star nya
+# 17 agustus 2023 upload
 import os
 import pathlib
 import sys
@@ -39,7 +42,7 @@ def walk_directory(directory: pathlib.Path, tree: Tree) -> None:
 try:
     directory = os.path.abspath(sys.argv[1])
 except IndexError:
-    print("[b]Usage:[/] python e-liquid.py <DIRECTORY>")
+    print("[b]Usage:[/] python e-liquid.py <directory>")
 else:
     tree = Tree(
         f":open_file_folder: [link file://{directory}]{directory}",
