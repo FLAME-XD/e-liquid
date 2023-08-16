@@ -1,4 +1,4 @@
-<img src="https://github.com/FLAME-XD/e-liquid/blob/main/directory/Screenshot%20from%202023-08-12%2022-25-34.png">
+<img src="https://github.com/FLAME-XD/e-liquid/blob/main/directory/Screenshot_2023-08-17-02-19-07-312_com.termux.jpg">
 
 
 #### CARA INSTALL SCRIPT:
