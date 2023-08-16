@@ -8,6 +8,6 @@
  $ pkg install python git
  $ git clone https://github.com/FLAME-XD/e-liquid
  $ cd e-liquid
- $ python e-liquid.py
-   input run.py
+ $ python e-liquid.py DIRECTORY
+ last input run.py
 ```
