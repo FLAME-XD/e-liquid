@@ -1,4 +1,4 @@
-# follow github.com/FLAME-XD && github.com/khamdihi-dev
+# follow github.com/FLAME-XD && github.com/khamdihi-XD
 # follow and give star tools
 # thanks follow and star nya
 # 17 agustus 2023 upload update
