@@ -1,7 +1,7 @@
-# github.com/FLAME-XD
+# follow github.com/FLAME-XD && https://github.com/khamdihi-dev
 # follow and give star tools
 # thanks follow and star nya
-# 17 agustus 2023 upload
+# 17 agustus 2023 upload update
 import os
 import pathlib
 import sys
